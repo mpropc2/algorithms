@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f765b823-4802-483e-9543-3ab294166d07" name="Default Changelist" comment="" />
+    <list default="true" id="f765b823-4802-483e-9543-3ab294166d07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClimbingUpStair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DisjointNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quicksort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReaperReplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubArraySumEqualK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFunctionalInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/DijkstraAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/TestDijkstraAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Vertex.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +49,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,8 +94,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583118770853</updated>
+      <workItem from="1598598287117" duration="745000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="1809" height="365" key="GridCell.Tab.0.bottom" timestamp="1583723318826">
